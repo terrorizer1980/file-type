@@ -138,6 +138,7 @@ export const extensions = [
 	'zst',
 	'jxl',
 	'vcf',
+	'txt',
 ];
 
 export const mimeTypes = [
@@ -275,4 +276,5 @@ export const mimeTypes = [
 	'model/3mf',
 	'image/jxl',
 	'application/zstd',
+	'text/plain',
 ];
